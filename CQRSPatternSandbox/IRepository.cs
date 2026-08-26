@@ -2,6 +2,6 @@
 {
     public interface IRepository<T>
     {
-        Product Find(int productId);
+        ProductWrite Find(int productId);
     }
 }
