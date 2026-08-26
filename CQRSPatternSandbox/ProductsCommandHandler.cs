@@ -15,7 +15,7 @@ namespace CQRSPatternSandbox
 
         public void Handle(AddNewProduct command)
         {
-            product?.AddNewProduct(int userId, int productId);
+            // product?.AddNewProduct(int userId, int productId);
         }
     }
 }
